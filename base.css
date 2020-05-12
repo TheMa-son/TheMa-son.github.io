@@ -1,6 +1,6 @@
 .theme-dark {
-  --foreground-1: #1d1f26;
-  --foreground-2: #1d1f26;
+  --foreground-1: #1b1e23;
+  --foreground-2: #1b1e23;
   --foreground-divider: #dadada;
   --background-1: ##0f0f12;
   --background-2: ##0f0f12;
@@ -22,7 +22,7 @@
   --dropdown: #1e2127;
   --dropdown-header: #252830;
   --dropdown-item-hover: #22262d;
-  --message-box: #1b1e23;
+  --message-box: #1d1f26;
   --message-box-divider: #20242a;
   --message-embed: #171a1f;
   --message-button: #2d323c;
