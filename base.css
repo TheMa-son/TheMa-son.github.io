@@ -1,9 +1,9 @@
 .theme-dark {
-  --foreground-1: #363b4a;
-  --foreground-2: #313545;
+  --foreground-1: #1d1f26;
+  --foreground-2: #1d1f26;
   --foreground-divider: #dadada;
-  --background-1: #323740;
-  --background-2: #22262e;
+  --background-1: ##0f0f12;
+  --background-2: ##0f0f12;
   --box-shadow: 0 0 15px 2px rgba(0, 0, 0, 0.2);
   --scrollbar: rgb(53, 55, 63, 0.5);
   --tooltips: #2d323c;
@@ -12,7 +12,7 @@
   --pages-separator: rgba(255, 255, 255, 0.05);
   --user-popout: var(--dropdown);
   --user-popout-body: #1a1c22;
-  --user-popout-message: #15171c;
+  --user-popout-message: #2e313b;
   --settings-box: var(--message-box);
   --settings-box-hover: #16191d;
   --settings-box-footer: #171a1f;
